@@ -1,3 +1,6 @@
+<img src="Anonymus-Confession-Bot/banner.png" width="100%" height="100%" />
+
+
 1. Go to System environment variables
 2. Create TOKEN 
 3. Enter your token 
