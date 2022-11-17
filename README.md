@@ -19,13 +19,13 @@
 
 
 
-# 👷‍♂️ Features
+## 👷‍♂️ Features
 - Easy to run
 - Dual language support (spanish & english only)
 - Clean and beautiful menus
 - And **much more**! **Try it yourself**.
 
-# ⚙️ Configuration
+## ⚙️ Configuration
 Enter to `config.json` and fill out the values:
 
 **⚠️ Note: Never make your token public, and if you are on replit, use the Secrets part to put your token. ⚠️**
@@ -38,10 +38,14 @@ Enter to `config.json` and fill out the values:
     "GuildID":"" // SERVER ID
 }
 ```
-# 💻 Example
+## 💻 Example
 ![Loading Example...](https://i.imgur.com/wP2uacG.gif)
 
+## 💨 Run the projects
 
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Run on Repl.it](https://replit.com/badge/github/abisrc/Anonymous-Confession-Bot)](https://replit.com/new/github/abisrc/Anonymous-Confession-Bot)
 
 
 
