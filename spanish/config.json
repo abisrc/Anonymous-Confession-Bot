@@ -1,0 +1,7 @@
+{
+    "TOKEN": "EL TOKEN AQUÍ",
+    "PREFIX":"?",
+    "CfsID":"ID del canal de confesiones",
+    "CfsLogID":"Auditoria de las confesiones",
+    "GuildID":"ID del servidor"
+}
