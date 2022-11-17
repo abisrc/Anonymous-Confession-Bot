@@ -29,7 +29,7 @@
 Enter to `config.json` and fill out the values:
 
 **⚠️ Note: Never make your token public, and if you are on replit, use the Secrets part to put your token. ⚠️**
-```
+```json
 {
     "TOKEN": "", // TOKEN HERE
     "PREFIX":"?", // PREFIX BOT
