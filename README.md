@@ -19,11 +19,25 @@
 
 
 
-# Features
+# 👷‍♂️ Features
 - Easy to run
 - Dual language support (spanish & english only)
 - Clean and beautiful menus
 - And **much more**! **Try it yourself**.
+
+# ⚙️ Configuration
+Enter to `config.json` and fill out the values:
+
+**⚠️ Note: Never make your token public, and if you are on replit, use the Secrets part to put your token. ⚠️**
+```
+{
+    "TOKEN": "", // TOKEN HERE
+    "PREFIX":"?", // PREFIX BOT
+    "CfsID":"", // ID of the channel where the confessions will be sent
+    "CfsLogID":"", // ID of log channel
+    "GuildID":"" // SERVER ID
+}
+```
 
 
 
