@@ -1,4 +1,4 @@
-<img src="Anonymus-Confession-Bot/banner.png" width="100%" height="100%" />
+<img src="spanish/banner.png" width="100%" height="100%" />
 
 
 1. Go to System environment variables
