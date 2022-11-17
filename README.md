@@ -38,7 +38,8 @@ Enter to `config.json` and fill out the values:
     "GuildID":"" // SERVER ID
 }
 ```
-
+# 💻 Example
+![Loading Example...](https://i.imgur.com/wP2uacG.gif)
 
 
 
