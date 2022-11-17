@@ -12,13 +12,6 @@
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-
-
-
-
-
-
-
 ## 👷‍♂️ Features
 - Easy to run
 - Dual language support (spanish & english only)
@@ -43,17 +36,6 @@ Enter to `config.json` and fill out the values:
 
 ## 💨 Run the projects
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/abisrc/Anonymous-Confession-Bot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abisrc/Anonymous-Confession-Bot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Run on Repl.it](https://replit.com/badge/github/abisrc/Anonymous-Confession-Bot)](https://replit.com/new/github/abisrc/Anonymous-Confession-Bot)
-
-
-
-
-
-
-1. Go to System environment variables
-2. Create TOKEN 
-3. Enter your token 
-4. Go to config.json enter your CfsID, CfsLogID, GuildID
-5. Run
