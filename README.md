@@ -13,6 +13,26 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 
+
+
+
+
+
+
+# Features
+- Easy to run
+- Dual language support (spanish & english only)
+- Clean and beautiful menus
+- And **much more**! **Try it yourself**.
+
+
+
+
+
+
+
+
+
 1. Go to System environment variables
 2. Create TOKEN 
 3. Enter your token 
