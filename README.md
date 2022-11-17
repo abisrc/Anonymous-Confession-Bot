@@ -39,3 +39,9 @@ Enter to `config.json` and fill out the values:
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/abisrc/Anonymous-Confession-Bot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abisrc/Anonymous-Confession-Bot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Run on Repl.it](https://replit.com/badge/github/abisrc/Anonymous-Confession-Bot)](https://replit.com/new/github/abisrc/Anonymous-Confession-Bot)
+
+## ❌ Errors?
+- Make an [issue](https://github.com/abisrc/Anonymous-Confession-Bot/issues)
+- Join the [Discord](https://discord.gg/GtABQ4PyjQ)
+
+Made with :heart: and JavaScript!
